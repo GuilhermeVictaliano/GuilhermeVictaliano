@@ -1,6 +1,6 @@
 ### Hi, I'm Guilherme 👋 · Olá, sou o Guilherme
 
-**AI Builder** — I use AI to solve business problems: agents, automations and internal tools.
+**AI Builder** - I use AI to solve business problems: agents, automations and internal tools.
 *Uso IA para resolver problemas de negócio: agentes, automações e ferramentas internas.*
 
 🌐 **Portfolio / Portfólio:** [guilhermevictaliano.github.io](https://guilhermevictaliano.github.io)
